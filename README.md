@@ -20,7 +20,6 @@ As seguintes fontes foram utilizadas como base para o estudo:
 * PDFs de lógica de programação (Unidades 1 a 4)
 * Guia de lógica de programação para iniciantes
 
-📎 *(Recomenda-se adicionar links ou anexar os arquivos neste repositório)*
 
 ---
 
