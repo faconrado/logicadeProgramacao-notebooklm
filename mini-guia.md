@@ -1,32 +1,97 @@
-Mini Guia de Estudo: Trilha de Aprendizado
-Para dominar a lógica de programação e a Linguagem C, recomenda-se seguir estes passos estruturados:
-Fundamentos e Abstração:
-Entenda que o computador é determinístico e exige clareza absoluta
-.
-Estude o Método da Caixa Preta para entender entradas, processamento e saídas
-.
-Planejamento Antes do Código:
-Pratique a criação de algoritmos cotidianos (como fritar batatas) para treinar o raciocínio sequencial
-.
-Aprenda a desenhar fluxogramas e escrever pseudocódigos antes de abrir o editor de texto; isso evita erros estruturais graves
-.
-Gestão de Dados:
-Domine a diferença entre variáveis e constantes
-.
-Conheça os tipos primitivos: int (inteiros), float/double (reais), char (caracteres) e bool (lógicos)
-.
-Estruturas de Controle de Fluxo:
-Pratique decisões simples, compostas e encadeadas com if, else if e else
-.
-Aprenda a usar laços: for (quando o número de repetições é conhecido) e while/do-while (baseados em condições)
-.
-Introdução à Linguagem C:
-Familiarize-se com a sintaxe: uso de chaves {} para blocos, ponto e vírgula ; ao final de linhas e a função obrigatória main
-.
-Aprenda comandos de entrada e saída: printf para exibir dados e scanf para ler entradas do usuário
-.
-Prática Constante e Metodologia:
-Realize testes de mesa para acompanhar o valor das variáveis passo a passo e detectar bugs
-.
-Entenda o básico de metodologias ágeis como o Scrum (Backlog, Sprints e Daily) para compreender como o software é desenvolvido em equipes profissionais
-.
+# 📘 Mini Guia de Estudo: Lógica de Programação e Linguagem C
+
+Este guia apresenta uma **trilha estruturada de aprendizado** para dominar lógica de programação e os fundamentos da linguagem C.
+
+---
+
+## 🧠 Fundamentos e Abstração
+
+- Entenda que o computador é **determinístico** e exige clareza absoluta nas instruções.
+- Utilize o conceito de **Caixa Preta** para compreender:
+  - **Entradas**
+  - **Processamento**
+  - **Saídas**
+
+---
+
+## 📝 Planejamento Antes do Código
+
+- Pratique a criação de **algoritmos do dia a dia** (ex: fritar batatas) para desenvolver raciocínio sequencial.
+- Antes de codar, utilize:
+  - **Fluxogramas**
+  - **Pseudocódigo**
+
+💡 Isso reduz significativamente erros estruturais.
+
+---
+
+## 📊 Gestão de Dados
+
+- Entenda a diferença entre:
+  - **Variáveis**
+  - **Constantes**
+
+- Domine os tipos primitivos:
+  - `int` → números inteiros  
+  - `float` / `double` → números reais  
+  - `char` → caracteres  
+  - `bool` → valores lógicos  
+
+---
+
+## 🔄 Estruturas de Controle de Fluxo
+
+### Condicionais
+- Utilize:
+  - `if`
+  - `else if`
+  - `else`
+
+Para criar decisões:
+- Simples
+- Compostas
+- Encadeadas
+
+### Repetição (Loops)
+
+- `for` → quando o número de repetições é conhecido  
+- `while` → baseado em condição (pode não executar)  
+- `do-while` → executa pelo menos uma vez  
+
+---
+
+## 💻 Introdução à Linguagem C
+
+- Familiarize-se com a sintaxe:
+  - Uso de `{}` para blocos
+  - `;` ao final das instruções
+  - Função obrigatória `main`
+
+### Entrada e Saída
+
+- `printf` → saída de dados  
+- `scanf` → entrada de dados  
+
+---
+
+## ⚙️ Prática e Metodologia
+
+- Realize **testes de mesa** para:
+  - Acompanhar variáveis passo a passo
+  - Identificar erros (bugs)
+
+- Entenda conceitos básicos de metodologias ágeis:
+  - **Scrum**
+    - Backlog
+    - Sprints
+    - Daily
+
+💡 Isso ajuda a compreender como o software é desenvolvido em ambientes profissionais.
+
+---
+
+## 🚀 Conclusão
+
+Seguir essa trilha permite construir uma base sólida em lógica de programação, essencial para evoluir em qualquer linguagem e se tornar um desenvolvedor mais eficiente.
+
+---
